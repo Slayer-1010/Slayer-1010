@@ -34,12 +34,13 @@ Currently, I'm focused on strengthening my full-stack development skills and bui
 - PHP, Java, C
 - VS Code
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/revesh-man-joshi-107222355/](https://www.linkedin.com/in/revesh-man-joshi-107222355/)
-- Portfolio: [https://glittering-beignet-9e1389.netlify.app/](https://glittering-beignet-9e1389.netlify.app/)
-- GitHub: [https://github.com/Slayer-1010](https://github.com/Slayer-1010)
+LinkedIn: Connect with me
 
+Portfolio: View my portfolio
+
+Email: Add your professional email here
 ---
 
 ⭐ Always learning, building and improving.
