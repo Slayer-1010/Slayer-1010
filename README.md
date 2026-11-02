@@ -36,11 +36,11 @@ Currently, I'm focused on strengthening my full-stack development skills and bui
 
 ### 📫 Let's Connect
 
-LinkedIn: Connect with me
+LinkedIn: Connect with me(https://www.linkedin.com/in/revesh-man-joshi-107222355/)
 
-Portfolio: View my portfolio
+Portfolio: View my portfolio(https://glittering-beignet-9e1389.netlify.app/)
 
-Email: Add your professional email here
+[Send me an email](mailto:reveshmanjoshi2060@gmail.com@gmail.com)
 ---
 
 ⭐ Always learning, building and improving.
